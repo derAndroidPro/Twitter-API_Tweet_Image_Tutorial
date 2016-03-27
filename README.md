@@ -1,7 +1,7 @@
-# Twitter-API für Android: Bild twittern
+# Twitter API für Android: Bild twittern
 So twittert man ein Bild mit der Twitter API für Android.
 
-- <a href="" target="_blank" >Tutorial auf YouTube</a>
+- <a href="https://youtu.be/Dw1MJL17x24" target="_blank" >Tutorial auf YouTube</a>
 - Projekt für Android Studio
 
 <b>Grundlagen für dieses Tutorial:</b>
